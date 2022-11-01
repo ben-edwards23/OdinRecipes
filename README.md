@@ -1,3 +1,3 @@
 # Odin Recipes
 
-This repository is used when following The Odin Project.
+This repository is used when following The Odin Project.w
